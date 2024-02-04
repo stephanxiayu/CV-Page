@@ -12,8 +12,7 @@ export const metadata: Metadata = {
     template: "%s | Stephan Granzow",
     default: "Stephan Granzow",
   },
-  description:
-    "Check out my smart portfolio website with a custom AI chatbot Emma.",
+  description: "Check out my smart portfolio website with a custom AI chatbot.",
 };
 
 export default function RootLayout({

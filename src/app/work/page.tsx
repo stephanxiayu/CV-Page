@@ -54,7 +54,7 @@ export default function Page() {
         </div>
         <div>
           <h3>Manara e.V. - Co-Founder & Flutter Developer</h3>
-          <p>June 2019 - January 2023 (3 years 8 months) | Berlin, Germany</p>
+          <p>August 2020 - January 2023 (2 years 6 months) | Berlin, Germany</p>
           <ul>
             <li>
               Directed efforts towards creating digital solutions for the

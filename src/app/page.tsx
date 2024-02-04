@@ -6,7 +6,7 @@ import { Metadata } from "next";
 import Image from "next/image";
 
 export const metadata: Metadata = {
-  title: "Florian Walther - My Smart Portfolio",
+  title: "Stephan Granzow - My Smart Portfolio",
 };
 
 export default function Home() {
