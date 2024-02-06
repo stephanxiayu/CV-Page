@@ -130,8 +130,8 @@ export default function Page() {
       <section className="space-y-3">
         <H2>Education</H2>
         <p>
-          University of International Business and Economics - Chinese Language,
-          Economics, and Culture (2017 - 2018)
+          University of International Business and Economics in Beijing, China -
+          Chinese Language, Economics, and Culture (2017 - 2018)
         </p>
         <p>University of Potsdam - Economics, Business Law (2015 - 2019)</p>
         <p>
