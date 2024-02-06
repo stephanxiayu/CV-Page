@@ -75,12 +75,12 @@ export default function AIChatBox({ open, onClose }: AIChatBoxProps) {
             <div className="mx-8 flex h-full flex-col items-center justify-center gap-3 text-center">
               <Bot size={28} />
               <p className="text-lg font-medium">
-                Send eine Nachricht und starte den Chat mit Emma, meine AI-Chat
-                Assistentin !
+                Send a message and start chatting with Emma, my AI chat
+                assistant!
               </p>
               <p>
-                Du kannst Emma alles über mich fragen und Emma wird jede
-                revelante Information auf meiner Webseite finden
+                You can ask Emma anything about me, and Emma will find any
+                relevant information on my website.
               </p>
             </div>
           )}
@@ -97,7 +97,7 @@ export default function AIChatBox({ open, onClose }: AIChatBoxProps) {
           <input
             value={input}
             onChange={handleInputChange}
-            placeholder="Sag etwas..."
+            placeholder="say something..."
             className="grow rounded border bg-background px-3 py-2"
             ref={inputRef}
           />
@@ -105,7 +105,7 @@ export default function AIChatBox({ open, onClose }: AIChatBoxProps) {
             type="submit"
             className="flex w-10 flex-none items-center justify-center disabled:opacity-50"
             disabled={input.length === 0}
-            title="Nachricht senden"
+            title="submit message"
           >
             <SendHorizontal size={24} />
           </button>

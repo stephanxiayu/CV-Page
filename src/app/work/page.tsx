@@ -154,6 +154,19 @@ export default function Page() {
         </p>
       </section>
       <hr className="border-muted" />
+      <section className="space-y-3">
+        <H2>Volunteer Work</H2>
+        <p>Manara - Street Worker & Managing Director (2020 - 2024)</p>
+        <p>Emergency Shelter Worker - Berliner Stadtmission (2012 - 2018)</p>
+        <p>
+          City Mission Cold Bus Driver (Kältebusfahrer) - Berliner Stadtmission
+          (2011 - 2014)
+        </p>
+
+        <p>City Station Volunteer - Berliner Stadtmission (2012 - 2014)</p>
+        <p>Child Care Worker - Berliner Stadtmission (2013)</p>
+      </section>
+      <hr className="border-muted" />
       {/* Weitere Abschnitte wie Seitenprojekte, Hobbys usw. */}
     </section>
   );
