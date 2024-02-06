@@ -144,13 +144,17 @@ export default function Page() {
       <section className="space-y-3">
         <H2>Skills</H2>
         <p>
-          I'm a full-stack web and Flutter App developer specializing in{" "}
-          <strong>React</strong>, <strong>Node</strong>, and{" "}
-          <strong>Flutter</strong>.
+          I specialize in <strong>Flutter</strong> App development, implementing{" "}
+          <strong>clean architecture</strong> and{" "}
+          <strong>test-driven development (TDD)</strong>. My expertise extends
+          to integrating <strong>Firebase push notifications</strong> and
+          utilizing <strong>Google Maps</strong> in applications.
         </p>
         <p>
-          I also have experience with Nginx Server, Next.js, Postman, and
-          Firebase.
+          Additionally, I'm a full-stack web developer proficient in{" "}
+          <strong>React</strong>, <strong>Node.js</strong>, and have experience
+          with <strong>Nginx Server</strong>, <strong>Next.js</strong>,{" "}
+          <strong>Postman</strong>, and <strong>Firebase</strong>.
         </p>
       </section>
       <hr className="border-muted" />
