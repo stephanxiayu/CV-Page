@@ -35,7 +35,7 @@ export default function Page() {
       <section className="space-y-3">
         <H2>Skills</H2>
         <p>
-          I&apos;m a full-stack web and Flutter App developer specializing in{" "}
+          I&apos;m a Fullstack Web and Flutter App developer specializing in{" "}
           <strong>React</strong>, <strong>Node</strong>, and{" "}
           <strong>Flutter</strong>.
         </p>

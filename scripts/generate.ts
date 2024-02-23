@@ -2,7 +2,7 @@ import dotenv from "dotenv";
 dotenv.config({ path: ".env.local" });
 // Configure dotenv before other imports
 import { DocumentInterface } from "@langchain/core/documents";
-import { Redis } from "@upstash/redis";
+// import { Redis } from "@upstash/redis";
 import { DirectoryLoader } from "langchain/document_loaders/fs/directory";
 import { TextLoader } from "langchain/document_loaders/fs/text";
 import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";

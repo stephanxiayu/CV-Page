@@ -16,7 +16,7 @@ export default function Home() {
         <div className="space-y-3">
           <H1 className="text-center sm:text-start">Hi, I&apos;m Stephan 👋</H1>
           <p className="text-center sm:text-start">
-            I&apos;m a full-stack web and Flutter App developer from Berlin
+            I&apos;m a Fullstack Web and Flutter App developer from Berlin
             Germany who builds cool projects.
           </p>
         </div>

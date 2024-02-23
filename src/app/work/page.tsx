@@ -151,7 +151,7 @@ export default function Page() {
           utilizing <strong>Google Maps</strong> in applications.
         </p>
         <p>
-          Additionally, I'm a full-stack web developer proficient in{" "}
+          Additionally, I am a full-stack web developer proficient in{" "}
           <strong>React</strong>, <strong>Node.js</strong>, and have experience
           with <strong>Nginx Server</strong>, <strong>Next.js</strong>,{" "}
           <strong>Postman</strong>, and <strong>Firebase</strong>.
