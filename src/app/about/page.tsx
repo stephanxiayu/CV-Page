@@ -22,10 +22,10 @@ export default function Page() {
           from Berlin Germany. I started programming in 2020, at the age of 36,
           and since then I have created a lot of cool Projects like{" "}
           <a
-            href="https://www.meine-notizen.com/"
+            href="https://www.tech-blog.info/"
             className="text-primary hover:underline"
           >
-            Shiftly24.de
+            Tech-Blog.info
           </a>
           .
         </p>
@@ -36,11 +36,12 @@ export default function Page() {
         <H2>Skills</H2>
         <p>
           I&apos;m a Fullstack Web and Flutter App developer specializing in{" "}
-          <strong>React</strong>, <strong>Node</strong>, and{" "}
+          <strong>React.js</strong>, <strong>Next.js</strong>,{" "}
+          <strong>Node.js</strong>, <strong>TypeScript</strong>, and{" "}
           <strong>Flutter</strong>.
         </p>
         <p>
-          I also have experience with Nginx Server, Next.js, Postman and
+          I also have experience with Nginx Server, MongoDB, Postman and
           Firebase
         </p>
       </section>
@@ -54,13 +55,12 @@ export default function Page() {
         <ul className="list-inside list-disc">
           <li>
             <a
-              href="https://www.meine-notizen.com/"
+              href="https://www.tech-blog.info/"
               className="text-primary hover:underline"
             >
-              Shiftly24.de
+              Tech-Blog.info
             </a>{" "}
-            - A Shiftplan Software to create Shiftplans and share it with the
-            Employees
+            - A Tech-Blog website for the latest tech news
           </li>
           <li>
             <Link
@@ -70,6 +70,16 @@ export default function Page() {
               Manara e.V.
             </Link>{" "}
             - Helping homeless people in Berlin
+          </li>
+          <li>
+            <Link
+              href="https://www.tech-blog.info/blog/von-der-zndenden-idee-zur-fertigen-software"
+              className="text-primary hover:underline"
+            >
+              Shiftly24
+            </Link>{" "}
+            - still work in progress (not deployed) and will be a shift plan
+            software
           </li>
         </ul>
       </section>
