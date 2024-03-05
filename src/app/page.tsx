@@ -15,8 +15,10 @@ export default function Home() {
     <section className="space-y-16 bg-[url('/i.jpg')] bg-cover bg-center bg-no-repeat px-1 py-8">
       <section className="grid grid-cols-1 items-center gap-8 sm:grid-cols-2">
         <div className="space-y-3">
-          <H1 className="text-center sm:text-start">Hi, I&apos;m Stephan 👋</H1>
-          <p className="text-center sm:text-start">
+          <H1 className="text-center text-gray-300 sm:text-start">
+            Hi, I&apos;m Stephan 👋
+          </H1>
+          <p className="text-center text-gray-400 sm:text-start">
             I&apos;m a Fullstack Web and Flutter App developer from Berlin
             Germany who builds cool projects.
           </p>
@@ -32,7 +34,7 @@ export default function Home() {
         </div>
       </section>
       <section className="space-y-3 text-center">
-        <H1>Ask the chatbot anything about me</H1>
+        <H1 className="text-gray-300">Ask the chatbot anything about me</H1>
         <H3 className="text-gray-400">
           Click the little{" "}
           <Bot size={35} color="green" className="inline pb-1" /> icon in the
