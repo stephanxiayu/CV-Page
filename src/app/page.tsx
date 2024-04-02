@@ -37,7 +37,7 @@ export default function Home() {
         <meta name="twitter:card" content="summary_large_image" />
         {/* ...weitere Meta Tags */}
       </Head>
-      <section className="space-y-16 bg-[url('/iii.jpeg')] bg-cover bg-center bg-no-repeat px-1 py-8">
+      <section className="space-y-16 bg-[url('/ia.jpeg')] bg-cover bg-center bg-no-repeat px-1 py-8">
         <section className="grid grid-cols-1 items-center gap-8 sm:grid-cols-2">
           <div className="space-y-3">
             <H1 className="text-center text-gray-300 sm:text-start">
