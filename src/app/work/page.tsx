@@ -31,8 +31,8 @@ export default function Page() {
           <h3>Shiftly24.de - Co-Founder, CTO and Lead Dev</h3>
           <p>December 2023 - today | Berlin, Germany</p>
           <p>
-            Develop the Landing-Page and Frontend in React, Backend in Node and
-            the Mobileapp in Flutter.
+            Develop the Landing-Page and Frontend in Next.js TypeScript, Backend
+            in Node.js TypeScript and the Mobileapp in Flutter.
           </p>
         </div>
         <div>

@@ -34,7 +34,7 @@ export default function Page() {
           >
             Shiftly24
           </Link>{" "}
-          - Shiftplan Software for small Companies software
+          - Shiftplan Software for small Companies
         </p>
         <p>I&apos;m passionate about building cool apps and websites.</p>
       </section>
