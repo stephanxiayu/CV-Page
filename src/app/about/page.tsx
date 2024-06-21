@@ -21,13 +21,20 @@ export default function Page() {
           My name is Stephan Granzow and I am a self-taught software developer
           from Berlin Germany. I started programming in 2020, at the age of 36,
           and since then I have created a lot of cool Projects like{" "}
-          <a
+          <Link
             href="https://www.tech-blog.info/"
             className="text-primary hover:underline"
           >
             Tech-Blog.info
-          </a>
-          .
+          </Link>
+          {"  or  "}
+          <Link
+            href="https://www.shiftly24.de"
+            className="text-primary hover:underline"
+          >
+            Shiftly24
+          </Link>{" "}
+          - Shiftplan Software for small Companies software
         </p>
         <p>I&apos;m passionate about building cool apps and websites.</p>
       </section>
@@ -54,12 +61,21 @@ export default function Page() {
         </p>
         <ul className="list-inside list-disc">
           <li>
-            <a
+            <Link
+              href="https://www.shiftly24.de"
+              className="text-primary hover:underline"
+            >
+              Shiftly24
+            </Link>{" "}
+            - Shiftplan Software for small Companies software
+          </li>
+          <li>
+            <Link
               href="https://www.tech-blog.info/"
               className="text-primary hover:underline"
             >
               Tech-Blog.info
-            </a>{" "}
+            </Link>{" "}
             - A Tech-Blog website for the latest tech news
           </li>
           <li>
@@ -70,16 +86,6 @@ export default function Page() {
               Manara e.V.
             </Link>{" "}
             - Helping homeless people in Berlin
-          </li>
-          <li>
-            <Link
-              href="https://www.tech-blog.info/blog/von-der-zndenden-idee-zur-fertigen-software"
-              className="text-primary hover:underline"
-            >
-              Shiftly24
-            </Link>{" "}
-            - still work in progress (not deployed) and will be a shift plan
-            software
           </li>
         </ul>
       </section>

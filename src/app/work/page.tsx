@@ -129,6 +129,7 @@ export default function Page() {
 
       <section className="space-y-3">
         <H2>Education</H2>
+        <p>Ironhack Fullstack Web Development - (03.2024 - 06.2024)</p>
         <p>
           University of International Business and Economics in Beijing, China -
           Chinese Language, Economics, and Culture (2017 - 2018)
